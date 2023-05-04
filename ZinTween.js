@@ -1,9 +1,9 @@
 //=============================================================================
 // RPG Maker MZ - ZinTween
 //
-// Copyright 2020 Huuzin
-// Released under the MIT license
-// https://opensource.org/licenses/mit-license.php
+// Copyright 2020-2023 Huuzin
+// Released under license
+// https://github.com/huuzin-github/rpgmakermz/wiki/License-Notices
 //
 // ver 1.5.0	Release data: 2021/10/31
 //				エンジンを改良してデータサイズを削減
@@ -40,15 +40,13 @@
 // ver 1.0.0	Release data: 2020/9/6
 //				初版公開
 // 
-// https://huuzin.net
-// 
 //=============================================================================
 
 /*:
 * @target MZ
 * @plugindesc ver 1.5.0 Provides tween
 * @author Huuzin
-* @url https://huuzin.net/2020/09/06/zintween/
+* @url https://github.com/huuzin-github/rpgmakermz/wiki/Pictuner
 * @base PluginCommonBase
 * @orderAfter PluginCommonBase
 *
@@ -238,7 +236,7 @@
 * @target MZ
 * @plugindesc ver 1.5.0 トゥイーン機能を提供します
 * @author Huuzin
-* @url https://huuzin.net/2020/09/06/zintween/
+* @url https://github.com/huuzin-github/rpgmakermz/wiki/Pictuner
 * @base PluginCommonBase
 * @orderAfter PluginCommonBase
 *
