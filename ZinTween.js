@@ -46,7 +46,7 @@
 * @target MZ
 * @plugindesc ver 1.5.0 Provides tween
 * @author Huuzin
-* @url https://github.com/huuzin-github/rpgmakermz/wiki/Pictuner
+* @url https://github.com/huuzin-github/rpgmakermz/wiki/ZinTween
 * @base PluginCommonBase
 * @orderAfter PluginCommonBase
 *
@@ -236,7 +236,7 @@
 * @target MZ
 * @plugindesc ver 1.5.0 トゥイーン機能を提供します
 * @author Huuzin
-* @url https://github.com/huuzin-github/rpgmakermz/wiki/Pictuner
+* @url https://github.com/huuzin-github/rpgmakermz/wiki/ZinTween
 * @base PluginCommonBase
 * @orderAfter PluginCommonBase
 *
